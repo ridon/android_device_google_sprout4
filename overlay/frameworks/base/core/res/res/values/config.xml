@@ -279,7 +279,10 @@
 
     <bool name="config_user_notification_of_restrictied_mobile_access">false</bool>
 
-    <!-- The RadioAccessFamilies supported by the device.
+    <!-- Use wakelock for flashlight -->
+    <bool name="config_useWakeLockForFlashlight">true</bool>
+
+  	<!-- The RadioAccessFamilies supported by the device.
          Empty is viewed as "all".  Only used on devices which
          don't support RIL_REQUEST_GET_RADIO_CAPABILITY
          format is UMTS|LTE|... -->
