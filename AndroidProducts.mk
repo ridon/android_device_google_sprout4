@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_sprout4.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_sprout8.mk
